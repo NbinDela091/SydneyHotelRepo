@@ -82,6 +82,7 @@ namespace SydneyHotel
             Console.WriteLine($"The customer spending most is {maxReservation.CustomerName} with ${maxReservation.TotalPrice}");
             Console.WriteLine($"The customer spending least is {minReservation.CustomerName} with ${minReservation.TotalPrice}");
             Console.WriteLine("Thank you for choosing Sydney Hotel!");
+            Console.WriteLine("We welcome you again in our Hotel!");
             Console.WriteLine("Press any key to continue....");
             Console.ReadLine();
         }
