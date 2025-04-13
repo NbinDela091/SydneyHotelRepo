@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\bin\Debug\net9.0\SydneyHotel.exe
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\bin\Debug\net9.0\SydneyHotel.deps.json
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\bin\Debug\net9.0\SydneyHotel.runtimeconfig.json
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\bin\Debug\net9.0\SydneyHotel.dll
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\bin\Debug\net9.0\SydneyHotel.pdb
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\SydneyHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\SydneyHotel.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\SydneyHotel.AssemblyInfo.cs
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\SydneyHotel.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\SydneyHotel.dll
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\refint\SydneyHotel.dll
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\SydneyHotel.pdb
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\SydneyHotel.genruntimeconfig.cache
+C:\Users\dell\Desktop\SydneyHotel\SydneyHotel\obj\Debug\net9.0\ref\SydneyHotel.dll
